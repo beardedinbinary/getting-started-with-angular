@@ -1,0 +1,21 @@
+{
+  "name": "angular",
+  "version": "0.0.0",
+  "authors": [
+    "Steve Balistreri <sbalistr@gmail.com>"
+  ],
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
